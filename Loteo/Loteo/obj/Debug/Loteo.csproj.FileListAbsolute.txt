@@ -1,0 +1,5 @@
+C:\Users\Kamikaze\source\repos\Loteo\Loteo\obj\Debug\Loteo.csproj.AssemblyReference.cache
+C:\Users\Kamikaze\source\repos\Loteo\Loteo\obj\Debug\Casasola.Form1.resources
+C:\Users\Kamikaze\source\repos\Loteo\Loteo\obj\Debug\Loteo.Properties.Resources.resources
+C:\Users\Kamikaze\source\repos\Loteo\Loteo\obj\Debug\Loteo.csproj.GenerateResource.cache
+C:\Users\Kamikaze\source\repos\Loteo\Loteo\obj\Debug\Loteo.csproj.CoreCompileInputs.cache
